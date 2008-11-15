@@ -1,0 +1,24 @@
+h4. Posted 2008-11-14
+
+h1. Ahh! There is Life Yet in Ideas
+
+So I've decided to make the jump and start my own gitBlog. I have a few reasons why I am doing this:
+
+# To centralize more of my work around "github":http://github.com
+# To keep my blog versioned and always have a backup on hand
+# It seems inevitable with a ton of job requirements asking for "github":http://github.com repositories that I might as well show everything on "github":http://github.com sooner rather than later
+# I will eventually be posting portfolio and work changes here as well as tips. It would be great to never lose project information and screenshots ever again. ("github":http://github.com has better memory than myself after a few years pass I'm sure)
+# I hope that gitBlog's will take of because I would love to watch them
+# I'm hopelessly addicted to "github":http://github.com
+
+Now that we have moved the why out of the way let's move on to the how. Obviously I am using git to push to my repository. What may not be obvious is that I will be updating and pushing all of this via my online blog. I know there are a few engines out there to do this, mainly using post commit hooks and starting with a git push itself, but I prefer to take it from the traditional end of pushing the content through my blog administration first. So that's the how.
+
+As to when, well that's a trickier question. I am working on my new blog engine in between paying contracts. As a freelancer, it's always tricky to find the time. As a family man it's even trickier. I'm hoping that having to push this manually will inspire me to keep moving on the engine during any spare moment.
+
+Well I think that's enough for now. I need to start getting my portfolio together and on here soon. Have a goodnight everyone!
+
+h4. Inspired by: "gits blog":http://github.com/blog/164-use-github-as-your-blog and "bilson":http://github.com/bilson/blog/tree/master
+
+h4. Posted by: Michael Christenson II:http://workingwithrails.com/person/6829-michael-christenson-ii (aka m3talsmith)
+
+<a href="http://workingwithrails.com/recommendation/new/person/6829-michael-christenson-ii"><img alt="Recommend Me" src="http://workingwithrails.com/images/tools/compact-med.jpg" /></a>
