@@ -23,6 +23,6 @@ h4. Inspired by: "gits blog":http://github.com/blog/164-use-github-as-your-blog 
 
 h4. Posted by: "Michael Christenson II":http://workingwithrails.com/person/6829-michael-christenson-ii (aka m3talsmith)
 
-<img src="master/images/me_sketched.jpg" height="128px" width="166px" />
+<img src="http://github.com/m3talsmith/blog/tree/master/images/me_sketched.jpg" height="128px" width="166px" />
 
 <a href="http://workingwithrails.com/recommendation/new/person/6829-michael-christenson-ii"><img alt="Recommend Me" src="http://workingwithrails.com/images/tools/compact-med.jpg" /></a>
