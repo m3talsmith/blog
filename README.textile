@@ -19,6 +19,8 @@ Well I think that's enough for now. I need to start getting my portfolio togethe
 
 h4. Inspired by: "gits blog":http://github.com/blog/164-use-github-as-your-blog and "bilson":http://github.com/bilson/blog/tree/master
 
-h4. Posted by: Michael Christenson II:http://workingwithrails.com/person/6829-michael-christenson-ii (aka m3talsmith)
+<hr />
+
+h4. Posted by: "Michael Christenson II":http://workingwithrails.com/person/6829-michael-christenson-ii (aka m3talsmith)
 
 <a href="http://workingwithrails.com/recommendation/new/person/6829-michael-christenson-ii"><img alt="Recommend Me" src="http://workingwithrails.com/images/tools/compact-med.jpg" /></a>
