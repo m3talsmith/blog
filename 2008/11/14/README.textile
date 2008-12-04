@@ -8,7 +8,7 @@ So I've decided to make the jump and start my own gitBlog. I have a few reasons 
 # To keep my blog versioned and always have a backup on hand
 # It seems inevitable with a ton of job requirements asking for "github":http://github.com repositories that I might as well show everything on "github":http://github.com sooner rather than later
 # I will eventually be posting portfolio and work changes here as well as tips. It would be great to never lose project information and screenshots ever again. ("github":http://github.com has better memory than myself after a few years pass I'm sure)
-# I hope that gitBlog's will take of because I would love to watch them
+# I hope that gitBlog's will take off because I would love to watch them
 # I'm hopelessly addicted to "github":http://github.com
 
 Now that we have moved the why out of the way let's move on to the how. Obviously I am using git to push to my repository. What may not be obvious is that I will be updating and pushing all of this via my online blog. I know there are a few engines out there to do this, mainly using post commit hooks and starting with a git push itself, but I prefer to take it from the traditional end of pushing the content through my blog administration first. So that's the how.
@@ -19,7 +19,7 @@ Well I think that's enough for now. I need to start getting my portfolio togethe
 
 h4. Inspired by: "gits blog":http://github.com/blog/164-use-github-as-your-blog and "bilson":http://github.com/bilson/blog/tree/master
 
-<hr />
+h1. &nbsp;
 
 h4. Posted by: "Michael Christenson II":http://workingwithrails.com/person/6829-michael-christenson-ii (aka m3talsmith)
 
