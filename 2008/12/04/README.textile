@@ -76,7 +76,7 @@ Now imagine I added more classes. This won't increase my test lines of code coun
 
 You could say that these classes are exactly similar and I could just write a loop for dynamic creation of them if I needed such a separation. And you'd be right. But what if they are not the same? What if the class Metal goes to include different finishes in it? Maybe different validation setups. There can be plenty of reasons that these would not be the same. So knocking down that straw man of my own creation, I still hold to my opinion that there has to be a better way of judging your testing level automatically.
 
-Does anyone have any ideas? Please comment on this commit with ideas.
+Does anyone have any ideas? Please a comment "on this commit":http://github.com/m3talsmith/blog/commit/fce565ab22c3bdb234d004b7c922ed9df92b07b5#comments with ideas.
 
 h1. &nbsp;
 
