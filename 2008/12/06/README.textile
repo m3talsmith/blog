@@ -2,7 +2,7 @@ h4. Posted 2008-12-06
 
 h1. Query Madness (Or why I rarely post ;)
 
-h4. Note, this is a duplicate post from an older post I made on my "other blog":http://blog.theurbanrebellion.com/ which you can view "here":":http://blog.theurbanrebellion.com/2008/08/query-madness-or-why-i-rarely-post.html
+h4. Note, this is a duplicate post from an older post I made on my "other blog":http://blog.theurbanrebellion.com/ which you can view "here":http://blog.theurbanrebellion.com/2008/08/query-madness-or-why-i-rarely-post.html .
 
 So the subject we are dealing with is tags, fast queries, and how to write them best in rails. Here are my thought from August of this year
 
