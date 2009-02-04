@@ -1,6 +1,6 @@
 h4. Posted 2009-02-04
 
-h1. "OpenId":http://openid.net/ Authentication Fork
+h1. OpenId Authentication Fork
 
 **It's time to consider the future of authentication.** I recently read a "blog post":http://alexyoung.org/articles/show/68/what_hosted_blogging_should_look_like that I highly agree with. The point of the article was to try and inspire people to stop duplicating services. Although this was pointing at CMS's, the point was welcome in this house.
 
